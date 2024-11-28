@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Protected: Exhibition	</title>
+	<atom:link href="/our-triennials/2015-victoria-bc/theme-exhibits-2015/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>2022 - 2024 Niagara Falls, Ontario</description>
+	<lastBuildDate>Tue, 31 Oct 2017 18:20:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: In Memory of Emily Carr &#124; The International Guild of Handhooking Rugmakers		</title>
+		<link>/our-triennials/2015-victoria-bc/theme-exhibits-2015/#comment-3302</link>
+
+		<dc:creator><![CDATA[In Memory of Emily Carr &#124; The International Guild of Handhooking Rugmakers]]></dc:creator>
+		<pubDate>Wed, 04 Mar 2015 01:05:49 +0000</pubDate>
+		<guid isPermaLink="false">http://tighr.connolley.co.uk/?page_id=1033#comment-3302</guid>
+
+					<description>Protected Comments: Please enter your password to view comments.</description>
+			<content:encoded><![CDATA[<form action="/wp-login.php?action=postpass" class="post-password-form" method="post">
+	<p>This content is password protected. To view it please enter your password below:</p>
+	<p><label for="pwbox-1033">Password: <input name="post_password" id="pwbox-1033" type="password" spellcheck="false" size="20" /></label> <input type="submit" name="Submit" value="Enter" /></p></form>
+	]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
